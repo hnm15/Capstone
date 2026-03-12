@@ -1,2 +1,2 @@
-# Capstone
-Injury Prediction and Player Safety in the NFL
+# Injury Prediction and Player Safety in the NFL
+This capstone project was completed as part of my Master’s Degree in Data Science at Boston University (August 2024 – December 2025). Using publicly available National Football League (NFL) data, the project applies data analysis and predictive modeling to examine factors that influence player health and safety. The analysis identifies patterns in common injuries and investigates aspects of gameplay that may increase a player’s risk of injury, with a particular focus on concussions.
